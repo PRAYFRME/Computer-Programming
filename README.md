@@ -1,4 +1,4 @@
-# Computer Programming
+# Computer Programming [![wakatime](https://wakatime.com/badge/github/PRAYFRME/Computer-Programming.svg)](https://wakatime.com/badge/github/PRAYFRME/Computer-Programming)
 Computer Programming by Subeen
 
 1. http://cpbook.subeen.com/
