@@ -8,7 +8,7 @@ int main()
 
     for(i = 1; i <= 10; i++){
         m = m + n;
-        printf("%d X %d %c %d\n", n, i,c, m);
+        printf("%d X %d %c %d\n", n, i, c, m);
     }
     return 0;
 }
