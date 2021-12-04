@@ -2,7 +2,9 @@
 int main()
 {
     int i, j, marks_count[11];
+
     int total_marks[] = {6, 7, 4, 6, 9, 7, 6, 2, 4, 3, 4, 1};
+
     for(i = 0; i < 11; i++){
         marks_count[i] = 0;
     }
